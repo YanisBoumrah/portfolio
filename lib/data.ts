@@ -65,22 +65,22 @@ export const projectsData = [
   {
     title: "Cap404",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "A public web app for Freelance that are looking for a job. I was the front-end developer. It has features like filtering, sorting and pagination.",
     tags: ["React", "Sass", ".Net", "C#","PostgreSQL", "GSAP","Docker","Jenkins","AWS"],
     imageUrl: cap404,
   },
   {
     title: "Vizio Capital",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "I worked as a full-stack developer on this startup project for 1 year. Users can invest in real estate projects and get a return on investment.",
     tags: ["React", "Redux", "MongoDB", "Sass", "Node.js", "Express", "JWT"],
     imageUrl: vizio,
   },
   {
     title: "Apolean",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["PHP", "Sass", "Javascript", "Html", "GSAP"],
+      "Apolean is a comprehensive marketing tool designed to harness the power of data, creativity, and media to help brands achieve their objectives.",
+    tags: ["PHP", "Sass", "Javascript", "Html", "GSAP","Gulp","Docker"],
     imageUrl: apolean,
   },
   
